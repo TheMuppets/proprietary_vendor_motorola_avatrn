@@ -3242,6 +3242,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/avatrn/proprietary/product/etc/permissions/deviceowner-configuration-com.motorola.camera3.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/deviceowner-configuration-com.motorola.camera3.xml \
     vendor/motorola/avatrn/proprietary/product/etc/permissions/privapp-permissions-com.motorola.camera3.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp-permissions-com.motorola.camera3.xml \
     vendor/motorola/avatrn/proprietary/product/etc/sysconfig/hiddenapi-whitelist-com.motorola.camera3.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/hiddenapi-whitelist-com.motorola.camera3.xml \
+    vendor/motorola/avatrn/proprietary/recovery/root/vendor/firmware/goodix-boe-gt9916S-24010501-6597AA91-avatrn.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/goodix-boe-gt9916S-24010501-6597AA91-avatrn.bin \
+    vendor/motorola/avatrn/proprietary/recovery/root/vendor/firmware/goodix-tm-gt9916S-24031504-65F3E04F-avatrn.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/goodix-tm-gt9916S-24031504-65F3E04F-avatrn.bin \
     vendor/motorola/avatrn/proprietary/system/etc/permissions/com.motorola.motosignature.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/com.motorola.motosignature.xml \
     vendor/motorola/avatrn/proprietary/system/etc/permissions/moto-core_services.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/moto-core_services.xml \
     vendor/motorola/avatrn/proprietary/system/etc/permissions/moto-settings.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/moto-settings.xml \
