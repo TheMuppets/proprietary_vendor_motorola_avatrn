@@ -3621,6 +3621,7 @@ PRODUCT_PACKAGES += \
     moto-settings \
     com.android.hotwordenrollment.common.util \
     vendor.goodix.hardware.biometrics.fingerprint@2.1-service.xml \
+    capsense_reset \
     android.hardware.biometrics.fingerprint@2.1-goodixservice \
     vendor.qti.camera.provider@2.7-service_64 \
     motsettings
