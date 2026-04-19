@@ -3597,7 +3597,6 @@ PRODUCT_PACKAGES += \
     libopencv \
     libopencv3a \
     libopestriping \
-    libos \
     libportrait_repair_ppl3_ocl \
     libqll \
     libqll10 \
@@ -3605,9 +3604,7 @@ PRODUCT_PACKAGES += \
     libqshcamera \
     libsfeShiftExtrapolation \
     libswregistrationalgo \
-    libsynx \
     libtfestriping \
-    libthreadutils \
     libubifocus \
     libvideoml \
     libvidhance \
