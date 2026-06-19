@@ -1,6 +1,7 @@
 
-s41830Ô§£§ 
-ZainHURI - SNPTdefault"²
+s41830ÈÌ‰¬z-
+	ZAIN-GPRSinternet	BatheerJatheerPI
+Zain-MMSMMSBatheerJatheerPZhttp://mms:8002/b172.29.11.12j8080"²
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€°	#

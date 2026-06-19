@@ -1,7 +1,9 @@
 
-s21805Ô§£§b
+s21805ÈÌ‰¬€
 mtelgprs	mtelsmartG
-mtelmmsmtelmmsZhttp://mmsc.mtel.ba/mms/wapencb192.168.61.11j80"ð
+mtelmmsmtelmmsZhttp://mmsc.mtel.ba/mms/wapencb192.168.61.11j80
+IMSims
+XCAPxcap"ð
 maxImageHeight˜
 maxImageWidth 
 maxMessageSize€€@#

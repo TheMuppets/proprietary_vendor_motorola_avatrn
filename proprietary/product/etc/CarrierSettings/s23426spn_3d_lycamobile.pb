@@ -1,9 +1,7 @@
 
-s23426spn_3d_lycamobileÔ§£§31
+s23426spn_3d_lycamobileÈÌ‰¬31
 
-Lycamobiledata.lycamobile.co.ukBlmukJplusP"à 
-allow_merging_rtt_calls_bool( 
-ignore_rtt_mode_setting_bool(
+Lycamobiledata.lycamobile.co.ukBlmukJplusP"Â
 maxImageHeight˜
 maxImageWidth #
 moto_data_stall_check_count_int22
@@ -18,8 +16,5 @@ Lycamobiledata.lycamobile.co.ukBlmukJplusP"à
 23433
 23434
 23486
-recipientLimit 
-rtt_downgrade_supported_bool(
-rtt_supported_bool(
-rtt_upgrade_supported_bool("
+recipientLimit"
 show_4g_for_lte_data_icon_bool(
